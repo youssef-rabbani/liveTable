@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "host": "localhost",
+    "database": "initiatives_db",
+    "options": {
+      "trustedconnection": "true",
+      "enableArithPort": "true",
+      "instancename":"DESKTOP-KGS72AC"
+    },
+    "dialect": "mssql"
+  }
+}
